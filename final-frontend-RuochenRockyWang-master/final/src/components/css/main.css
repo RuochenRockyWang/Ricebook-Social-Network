@@ -1,0 +1,93 @@
+.avatar{
+    border:solid;
+    margin-top: 2%;
+    /* margin-left: 25%; */
+    width: 50%;
+    border-radius: 50%;
+}
+.container{
+    /* border: solid; */
+    background-color: white;
+    width: 35%;
+    margin-left: 1%;
+    margin-right:1%;
+    float: left;
+    padding: 1em;
+    border-radius: 3%;
+    margin-top: 3%;
+    border:#00205B;
+}
+.posts{
+    width: 50%;
+    margin-right:5%;
+    float:right;
+}
+.post{
+    width: 80%;
+    margin-right:5%;
+    float:left;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    border:#00205B;
+}
+
+.searchBar{
+    width:40%;
+
+}
+
+.user{
+    margin-left: 10%;
+    margin-top: 1%;
+    text-align: center;
+    padding: 1em;
+
+}
+
+
+.nav{
+    background-color: #00205B;
+    
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.addf{
+    border: solid;
+}
+
+.card{
+    border: solid;
+}
+
+.btn-sm{
+    margin-top: 2%;
+}
+
+.newpost{
+    width:60%;
+    float:right;
+    margin-top: 3%;
+    margin-right:3%;
+    background-color: white;
+    padding: 2%;
+    border-radius: 4%;
+    
+}
+
+.postBlock{
+    background-color:white;
+    margin-top: 2%;
+    margin-left:1%;
+    margin-right:3%;
+    padding:2%;
+    width:59%;
+    float:right;
+    border-radius: 1%;
+}
+
+.searchUser{
+    text-align: center;
+}

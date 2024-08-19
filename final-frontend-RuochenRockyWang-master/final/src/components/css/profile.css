@@ -1,0 +1,25 @@
+.newPicBlock{
+    background-color: white;
+    border-radius: 3%;
+    padding:2%;
+    text-align: center;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+
+.back{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.updateBlock{
+    background-color: white;
+    border-radius: 3%;
+    padding:2%;
+    text-align: center;
+    margin-right: 6%;
+}
+
+.warning{
+    color:red;
+}
